@@ -1,7 +1,6 @@
-# Maven_Repository
 ```xml
 <dependency>
-    <groupId>com.samllaswater.healthapi</groupId>
+    <groupId>com.smallaswater</groupId>
     <artifactId>healthapi</artifactId>
     <version>1.2.9</version>
 </dependency>
